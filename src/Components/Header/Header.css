@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
+.header {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header img {
+    width: 50%;
+    padding: 25px;
+}
+
+.menu-bar {
+    background-color: #222;
+    color: #fff;
+}
+
+.nav {
+    justify-content: center;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-size: 18px;
+    transition: all 0.2s;
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    background-color: #FF9A00;
+    color: #ffffff;
+}

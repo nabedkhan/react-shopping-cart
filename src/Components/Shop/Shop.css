@@ -1,0 +1,26 @@
+@media (max-width: 991.98px) {
+    .product-content {
+        width: auto;
+        margin-left: 0 !important;
+    }
+    .shop .product {
+        margin-left: 0px;
+        border-right: none;
+        display: flex;
+        flex-direction: column;
+    }
+    .product-content h3 {
+        text-align: center;
+    }
+    .img-fluid {
+        width: 60%;
+        margin: auto;
+    }
+    .left-content, .right-content {
+        width: auto;
+        padding: 10px 50px;
+    }
+    .content-wrapper {
+        justify-content: center;
+    }
+}
